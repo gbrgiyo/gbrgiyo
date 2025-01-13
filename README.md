@@ -5,7 +5,7 @@ deployment and administration servers, both client and server-based systems.
 
 
 <p align='center'>
-   <a href="https://www.linkedin.com/aserd/">
+   <a href="https://www.linkedin.com/in/aserd/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    
