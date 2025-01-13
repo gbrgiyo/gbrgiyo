@@ -1,4 +1,4 @@
-# Hi, there,  I'm Artem 👋
+# Hi, there!  I'm Artem 👋
 SysOps/SRE Engineer with problem-solving skills in L2/L3 mixed team,
 IT infrastructure optimization, virtualization technologies, and CI/CD practices,
 deployment and administration servers, both client and server-based systems.
@@ -15,7 +15,7 @@ deployment and administration servers, both client and server-based systems.
 
 
 ## 🛠 Technical Stack
-● Virtualization/Containerization: Xen/KVM, OpenVZ, Vagrant, Docker, LXC, Kubernetes
+● Virtualization/Containerization: Xen/KVM, OpenVZ, Vagrant, Docker, LXC, Kubernetes,Rancher
 
 ● Cloud Platform: AWS (EC2,S3,IAM)
 
