@@ -24,7 +24,7 @@ deployment and administration servers, both client and server-based systems.
 
 ● Automation platform/Ticketing: ServiceNow, Jira
 
-● Tools: SSH, OpenVPN, OpenSSL
+● Tools: SSH, OpenVPN, WireGuard, OpenSSL
 
 ● Protocols: HTTP/HTTPS, DNS, SSH, SNMP, Telnet, DHCP, other
 
